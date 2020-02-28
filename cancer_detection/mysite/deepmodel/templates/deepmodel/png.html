@@ -1,0 +1,8 @@
+{% extends "basicapp/base.html" %}
+{% load static %}
+
+{% block content %}
+{% for image in images %}
+<img src="{% static image %}" alt="">
+{%endfor%}
+{% endblock %}
