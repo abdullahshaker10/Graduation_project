@@ -7,7 +7,7 @@ chardet==3.0.4
 Click==7.0
 cycler==0.10.0
 dicom==0.9.9.post1
-Django==2.2.9
+Django==2.2.28
 django-crispy-forms==1.8.1
 django-debug-toolbar==2.2
 django-dicom==0.0.4
